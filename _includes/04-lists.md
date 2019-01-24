@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Hunting
+Football
+Baseball
+Fishing
