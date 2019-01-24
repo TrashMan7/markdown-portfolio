@@ -1,4 +1,4 @@
-Hunting
-Football
-Baseball
-Fishing
+- Hunting
+- Football
+- Baseball
+- Fishing
