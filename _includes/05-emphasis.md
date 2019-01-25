@@ -1,2 +1,2 @@
--basic- knowlege of version control
---no-- certifacates
+**basic- knowlege of version control**
+-no certifacates-
